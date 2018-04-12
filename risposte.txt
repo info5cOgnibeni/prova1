@@ -5,7 +5,7 @@ RISPOSTE
 
 2. Per creare un repository privato è necessario per prima cosa un account premium di Github e poi selezionare privato nel campo accesso durante la creazione di un nuovo repository. Un repository privato, a differenza di uno pubblico, permette al creatore di condividerlo solo con gli utenti selezionati.
 
-3. Fare un branch significa creare una copia del repository selezionato per poter applicare modifiche al progetto senza interferire con le altre persone che ci stanno lavorando mantenendo il progetto originale. Github fornisce la funzione di pull request che permette al creatore della branch di richiede l'implementazione delle sue modifiche nel progettto originale dopo un controllo da parte del creatore del repository sulle modifiche effettuate.
+3. Fare un branch significa creare una copia del repository selezionato per poter applicare modifiche al progetto senza interferire con le altre persone che ci stanno lavorando mantenendo il progetto originale. Github fornisce la funzione di pull request che permette al creatore della branch di richiede l'implementazione delle sue modifiche nel progettto originale (merge) dopo un controllo da parte del creatore del repository sulle modifiche effettuate nel branch.
 
 4. Una issue è una funzione che permettte ad un utente di Github di consigliare modifiche o indicare errori presenti in un repository al creatore del progetto.
 
